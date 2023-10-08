@@ -150,10 +150,15 @@ Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://githu
 
 Wenn Dir dieses Projekt gefällt und Du gerne dazu beitragen möchtest, Meine Arbeit zu unterstützen, kannst Du mir gerne einen `virtuellen Kaffee` ausgeben. Deine Spende hilft mir, die Entwicklung, Wartung und Verbesserung dieses Projekts fortzusetzen.
 
+<br />
 
-<p><a href="https://ko-fi.com/sakistech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p><br><br>
+<p><a href="https://ko-fi.com/sakistech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p>
+
+<br />
 
 Vielen Dank für Deine Unterstützung! Ich bin dankbar für jede Spende, die dazu beiträgt, dieses Projekt weiterzuentwickeln und zu verbessern.
+
+<br />
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakis-tech&show_icons=true&locale=en" alt="sakis-tech" /></p>
 
