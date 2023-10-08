@@ -147,7 +147,7 @@ Wenn Dir dieses Projekt gefällt und Du gerne dazu beitragen möchtest, Meine Ar
 <p><a href="https://ko-fi.com/sakistech"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p>
 <br />
 
-Vielen Dank für Deine Unterstützung! Ich bin dankbar für jede Spende, die dazu beiträgt, dieses Projekt weiterzuentwickeln und zu verbessern.
+Vielen Dank für Deine Unterstützung!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
