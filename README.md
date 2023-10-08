@@ -83,7 +83,7 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
    ```js
    chmod +x *.sh
    ```
-4. das gewünschte Script ausführen. Hier als beispiel das update.sh
+4. das gewünschte Script ausführen. Hier als beispiel das `update.sh`
    ```js
    ./update.sh
    ```
