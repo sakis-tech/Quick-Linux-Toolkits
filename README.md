@@ -115,16 +115,8 @@ Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Be
 <!-- CONTRIBUTING -->
 ## Mitwirken
 
-Deine Beiträge machen die Open-Source-Community zu einem wunderbaren Ort zum Lernen, Inspirieren und Schaffen. Jeder Beitrag, den du leistest, wird sehr geschätzt.
-
-Wenn du einen Vorschlag hast, der dies verbessern könnte, forke bitte das Repo und erstelle eine Pull-Anfrage. Du kannst auch einfach ein Problem mit dem Tag "Verbesserung" eröffnen.
+Wenn du einen Vorschlag hast, der dieses Projekt verbessern könnte, forke bitte das Repo und erstelle eine Pull-Anfrage.
 Vergiss nicht, dem Projekt einen Stern zu geben! Danke nochmals!
-
-1. Fork das Projekt.
-2. Erstelle deinen eigenen Feature-Branch: `git checkout -b feature/AmazingFeature`
-3. Übernehme deine Änderungen mit dem Befehl: `git commit -m 'Add some AmazingFeature'`
-4. Push deinen Branch mit dem Befehl: `git push origin feature/AmazingFeature`
-5. Öffne eine Pull-Anfrage.
 
 <p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
