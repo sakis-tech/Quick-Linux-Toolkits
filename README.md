@@ -131,7 +131,7 @@ Vergiss nicht, dem Projekt einen Stern zu geben! Danke nochmals!
 <!-- LICENSE -->
 ## Lizenz
 
-Vertrieben unter der MIT-Lizenz. Weitere Informationen findest du in der Datei `LICENSE.txt`
+Vertrieben unter der MIT-Lizenz. Weitere Informationen findest du in der Datei `LICENSE`
 
 <p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
