@@ -102,11 +102,24 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
 </div>
 
 Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Befehle und ihre Hauptfunktionen.
+| Auswahlmöglichkeit  | Verwendete Befehle        | Funktion                                 |
+|----------------------|---------------------------|------------------------------------------|
+| update               | `sudo apt update`         | Neueinlesen der Paketlisten              |
+| upgrade              | `sudo apt upgrade -y`     | Installierte Pakete aktualisieren        |
+| install PAKET(E)     | `sudo apt install PAKET(E)` | Installation von PAKET(E)               |
+| remove PAKET(E)      | `sudo apt remove PAKET(E)`  | Deinstallation von PAKET(E)            |
+| autoremove [PAKET(E)]| `sudo apt autoremove`      | Deinstallation ungenutzter Abhängigkeiten [inkl PAKET(E)] |
+| purge PAKET(E)       | `sudo apt purge PAKET(E)`   | Wie `remove`, zusätzlich werden alle globalen Konfigurationen von PAKET(E) entfernt |
+| dist-upgrade         | `sudo apt dist-upgrade -y` | Wie `upgrade`, können dabei auch Pakete installiert bzw. entfernt werden |
+| clean                | `sudo apt clean`           | Leeren des Paketcaches (Entfernen von zur Installation heruntergeladenen Paketen) |
+| autoclean            | `sudo apt autoclean`       | Wie `clean`, nur werden ausschließlich Pakete, die nicht mehr in den Quellen verfügbar sind, gelöscht |
+| check                | `sudo apt check`           | Überprüfung auf Abhängigkeitsfehler     |
+| markauto PAKET(E)    | `sudo apt-mark auto PAKET(E)` | PAKET(E) als "automatisch installiert" markieren |
+| unmarkauto PAKET(E)  | `sudo apt-mark manual PAKET(E)` | PAKET(E) als "manuell installiert" markieren |
+| changelog PAKET(E)   | `apt changelog PAKET(E)`   | Herunterladen und Anzeige des Changelogs von PAKET(E) |
+| download PAKET(E)    | `apt download PAKET(E)`    | PAKET(E) herunterladen                    |
+| Quit                     |                              | Das Skript beenden                             |
 
-| Skriptname  | Verwendete Befehle               | Funktion                                                                                     |
-|-------------|---------------------------------|----------------------------------------------------------------------------------------------|
-| update.sh   | `apt update`, `apt upgrade`, `add-apt-repository`, `apt-get remove` | Aktualisiert das System, fügt neue Paketquellen hinzu und entfernt veraltete Paketquellen.  |
-| benutzer.sh | `useradd`, `usermod`, `userdel`  | Fügt neue Benutzer hinzu, fügt einen gewünschten Benutzer zu einer Gruppe hinzu und entfernt Benutzer. |
 
 
 <p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
