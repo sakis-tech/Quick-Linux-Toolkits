@@ -97,7 +97,7 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
 
 <div align="center">
   <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits">
-    <img src="images/QLT.png" alt="Logo" width="734" height="536">
+    <img src="images/update.sh.png" alt="update.sh Terminal" width="734" height="536">
   </a>
 </div>
 
