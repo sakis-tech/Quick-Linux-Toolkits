@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of Zurück zum Anfang link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -54,7 +54,7 @@
     <li><a href="#mitwirken">Mitwirken</a></li>
     <li><a href="#lizenz">Lizenz</a></li>
     <li><a href="#kontakt">Kontakt</a></li>
-    <li><a href="#unterstützen-sie-das-projekt">Unterstützen Sie dieses Projekt</a></li>
+    <li><a href="#unterstützen-sie-dieses-projekt">Unterstützen Sie dieses Projekt</a></li>
   </ol>
 </details>
 
@@ -67,7 +67,7 @@ QLT ist ein Projekt, das spezielle Bash-Skripte für die Verwaltung auf Linux-Sy
 Jedes Skript ist aufgabenspezifisch, so dass auch unerfahrene Benutzer schnell und einfach nutzen können. 
 Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individuellen Bedürfnisse anzupassen oder zu erweitern.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Installation
@@ -89,7 +89,7 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
    ./update.sh
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 
 
@@ -110,7 +110,7 @@ Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Be
 | benutzer.sh | `useradd`, `usermod`, `userdel`  | Fügt neue Benutzer hinzu, fügt einen gewünschten Benutzer zu einer Gruppe hinzu und entfernt Benutzer. |
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -127,14 +127,14 @@ Vergiss nicht, dem Projekt einen Stern zu geben! Danke nochmals!
 4. Push deinen Branch mit dem Befehl: `git push origin feature/AmazingFeature`
 5. Öffne eine Pull-Anfrage.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 <!-- LICENSE -->
 ## Lizenz
 
 Vertrieben unter der MIT-Lizenz. Weitere Informationen findest du in der Datei `LICENSE.txt`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 <!-- CONTACT -->
 ## Kontakt
@@ -143,7 +143,7 @@ Sakis-Tech - [@mein_homelab](https://twitter.com/mein_homelab) - info@sakis.tech
 
 Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://github.com/sakis-tech/Quick-Linux-Toolkits)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
 
 <!-- Support -->
