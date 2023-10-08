@@ -53,7 +53,7 @@
     <li><a href="#mitwirken">Mitwirken</a></li>
     <li><a href="#lizenz">Lizenz</a></li>
     <li><a href="#kontakt">Kontakt</a></li>
-    <li><a href="#unterstützen-sie-dieses-projekt">Unterstützen Sie dieses Projekt</a></li>
+    <li><a href="#unterstütz-dieses-projekt">Unterstütz dieses Projekt</a></li>
   </ol>
 </details>
 
@@ -146,7 +146,7 @@ Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://githu
 
 
 <!-- Support -->
-## Unterstützen Sie dieses Projekt
+## Unterstütz dieses Projekt
 
 Wenn Dir dieses Projekt gefällt und Du gerne dazu beitragen möchtest, Meine Arbeit zu unterstützen, kannst Du mir gerne einen `virtuellen Kaffee` ausgeben. Deine Spende hilft mir, die Entwicklung, Wartung und Verbesserung dieses Projekts fortzusetzen.
 <br />
