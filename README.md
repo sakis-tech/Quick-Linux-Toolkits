@@ -35,11 +35,7 @@
   </a>
 
 <h3 align="center">Quick-Linux-Toolkits</h3>
-
   <p align="center">
-    Quick-Linux-Toolkits (QLT) ist ein Bash-Skript, das entwickelt wurde, um gängige Systemverwaltungsaufgaben auf Unix-basierten Systemen zu vereinfachen. Es bietet ein interaktives Menü, mit dem Benutzer Aufgaben wie Systemupdates, Benutzerkonten erstellen und vieles mehr.
-    <br />
-    <br />
     <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Report Bug</a>
     ·
     <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Request Feature</a>
@@ -52,22 +48,13 @@
 <details>
   <summary>Inhaltsverzeichnis</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Über das Projekt</a>
-    </li>
-    <li>
-      <a href="#getting-started">Einstieg</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#about-the-project">Über das Projekt</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Verwendung</a></li>
+    <li><a href="#contributing">Mitwirken</a></li>
+    <li><a href="#license">Lizenz</a></li>
+    <li><a href="#contact">Kontakt</a></li>
+    <li><a href="#support">Unterstützen Sie dieses Projekt</a></li>
   </ol>
 </details>
 
@@ -76,25 +63,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sakis-tech`, `Quick-Linux-Toolkits`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+QLT ist ein Projekt, das spezielle Bash-Skripte für die Verwaltung auf Linux-Systemen bereitstellt. 
+Jedes Skript ist aufgabenspezifisch, so dass auch unerfahrene Benutzer schnell und einfach nutzen können. 
+Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individuellen Bedürfnisse anzupassen oder zu erweitern.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Einstieg
-
-Es gibt zwei möglichkeiten wie du QLT installieren kannst.
-
-
-
-### Schnelle Installation
-
-Öffne dein Terminal und füge folgendes ein. Damit lädst du das Script herunter und führst dieses auch gleich aus.
-  ```sh
-  hier den Code einfügen.
-  ```
-
-### Ausführliche Installation
+## Installation
 
 1. Das Repository klonen.
    ```sh
@@ -104,9 +80,13 @@ Es gibt zwei möglichkeiten wie du QLT installieren kannst.
    ```sh
    cd Quick-Linux-Toolkits
    ```
-3. die `QLT.sh` ausführbar machen und ausführen.
+3. alle scripte ausführbar machen.
    ```js
-   chmod +x QLT.sh && ./QLT.sh
+   chmod +x *.sh
+   ```
+4. das gewünschte Script ausführen. Hier als beispiel das update.sh
+   ```js
+   ./update.sh
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,21 +102,15 @@ Es gibt zwei möglichkeiten wie du QLT installieren kannst.
   </a>
 </div>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Befehle und ihre Hauptfunktionen.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+| Skriptname  | Verwendete Befehle               | Funktion                                                                                     |
+|-------------|---------------------------------|----------------------------------------------------------------------------------------------|
+| update.sh   | `apt update`, `apt upgrade`, `add-apt-repository`, `apt-get remove` | Aktualisiert das System, fügt neue Paketquellen hinzu und entfernt veraltete Paketquellen.  |
+| benutzer.sh | `useradd`, `usermod`, `userdel`  | Fügt neue Benutzer hinzu, fügt einen gewünschten Benutzer zu einer Gruppe hinzu und entfernt Benutzer. |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) finden Sie in den [open issues](https://github.com/sakis-tech/Quick-Linux-Toolkits/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -148,9 +122,9 @@ Wenn du einen Vorschlag hast, der dies verbessern könnte, forke bitte das Repo 
 Vergiss nicht, dem Projekt einen Stern zu geben! Danke nochmals!
 
 1. Fork das Projekt.
-2. Erstelle deinen eigenen Feature-Branch (`git checkout -b feature/AmazingFeature`)
-3. Übernehme deine Änderungen mit dem Befehl (`git commit -m 'Add some AmazingFeature'`)
-4. Push deinen Branch mit dem Befehl (`git push origin feature/AmazingFeature`)
+2. Erstelle deinen eigenen Feature-Branch: `git checkout -b feature/AmazingFeature`
+3. Übernehme deine Änderungen mit dem Befehl: `git commit -m 'Add some AmazingFeature'`
+4. Push deinen Branch mit dem Befehl: `git push origin feature/AmazingFeature`
 5. Öffne eine Pull-Anfrage.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,12 +147,14 @@ Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://githu
 
 
 <!-- Support -->
-## Support
+## Unterstützen Sie dieses Projekt
+
+Wenn Dir dieses Projekt gefällt und Du gerne dazu beitragen möchtest, Meine Arbeit zu unterstützen, kannst Du mir gerne einen `virtuellen Kaffee` ausgeben. Deine Spende hilft mir, die Entwicklung, Wartung und Verbesserung dieses Projekts fortzusetzen.
+
 
 <p><a href="https://ko-fi.com/sakistech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p><br><br>
 
-<!-- Static -->
-## Statistik
+Vielen Dank für Deine Unterstützung! Ich bin dankbar für jede Spende, die dazu beiträgt, dieses Projekt weiterzuentwickeln und zu verbessern.
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakis-tech&show_icons=true&locale=en" alt="sakis-tech" /></p>
 
@@ -215,5 +191,8 @@ Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://githu
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+
+
 
 
