@@ -94,12 +94,13 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
 
 <!-- USAGE EXAMPLES -->
 ## Verwendung
-
+<br />
 <div align="center">
   <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits">
     <img src="images/update.sh.png" alt="update.sh Terminal" width="734" height="536">
   </a>
 </div>
+<br />
 
 Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Befehle und ihre Hauptfunktionen.
 | Auswahlmöglichkeit  | Verwendete Befehle        | Funktion                                 |
