@@ -48,7 +48,7 @@
 <details>
   <summary>Inhaltsverzeichnis</summary>
   <ol>
-    <li><a href="#about-the-project">Über das Projekt</a></li>
+    <li><a href="#ueber-das-projekt">Über das Projekt</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Verwendung</a></li>
     <li><a href="#contributing">Mitwirken</a></li>
