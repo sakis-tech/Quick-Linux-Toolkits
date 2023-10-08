@@ -35,9 +35,9 @@
 
 <h3 align="center">Quick-Linux-Toolkits</h3>
   <p align="center">
-    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Report Bug</a>
+    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Fehler melden</a>
     ·
-    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Request Feature</a>
+    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Vorschlag für eine Funktion</a>
   </p>
 </div>
 
