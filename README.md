@@ -30,19 +30,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sakis-tech/Quick-Sys-Tasks">
+  <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits">
     <img src="images/logo.png" alt="Logo" width="504" height="167">
   </a>
 
-<h3 align="center">Quick-Sys-Tasks</h3>
+<h3 align="center">Quick-Linux-Toolkits</h3>
 
   <p align="center">
-    Quick-Sys-Tasks (QST) ist ein Bash-Skript, das entwickelt wurde, um gängige Systemverwaltungsaufgaben auf Unix-basierten Systemen zu vereinfachen. Es bietet ein interaktives Menü, mit dem Benutzer Aufgaben wie Systemupdates, Benutzerkonten erstellen und vieles mehr.
+    Quick-Linux-Toolkits (QLT) ist ein Bash-Skript, das entwickelt wurde, um gängige Systemverwaltungsaufgaben auf Unix-basierten Systemen zu vereinfachen. Es bietet ein interaktives Menü, mit dem Benutzer Aufgaben wie Systemupdates, Benutzerkonten erstellen und vieles mehr.
     <br />
     <br />
-    <a href="https://github.com/sakis-tech/Quick-Sys-Tasks/issues">Report Bug</a>
+    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sakis-tech/Quick-Sys-Tasks/issues">Request Feature</a>
+    <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Request Feature</a>
   </p>
 </div>
 
@@ -76,14 +76,14 @@
 <!-- ABOUT THE PROJECT -->
 ## Über das Projekt
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sakis-tech`, `Quick-Sys-Tasks`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sakis-tech`, `Quick-Linux-Toolkits`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Einstieg
 
-Es gibt zwei möglichkeiten wie du QST installieren kannst.
+Es gibt zwei möglichkeiten wie du QLT installieren kannst.
 
 
 
@@ -98,15 +98,15 @@ Es gibt zwei möglichkeiten wie du QST installieren kannst.
 
 1. Das Repository klonen.
    ```sh
-   git clone https://github.com/sakis-tech/Quick-Sys-Tasks.git
+   git clone https://github.com/sakis-tech/Quick-Linux-Toolkits.git
    ```
 2. in den Ordner wechseln.
    ```sh
-   cd Quick-Sys-Tasks
+   cd Quick-Linux-Toolkits
    ```
-3. die `qst.sh` ausführbar machen und ausführen.
+3. die `QLT.sh` ausführbar machen und ausführen.
    ```js
-   chmod +x qst.sh && ./qst.sh
+   chmod +x QLT.sh && ./QLT.sh
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,8 +117,8 @@ Es gibt zwei möglichkeiten wie du QST installieren kannst.
 ## Verwendung
 
 <div align="center">
-  <a href="https://github.com/sakis-tech/Quick-Sys-Tasks">
-    <img src="images/qst.png" alt="Logo" width="734" height="536">
+  <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits">
+    <img src="images/QLT.png" alt="Logo" width="734" height="536">
   </a>
 </div>
 
@@ -133,7 +133,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) finden Sie in den [open issues](https://github.com/sakis-tech/Quick-Sys-Tasks/issues).
+Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme) finden Sie in den [open issues](https://github.com/sakis-tech/Quick-Linux-Toolkits/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,28 +165,39 @@ Vertrieben unter der MIT-Lizenz. Weitere Informationen findest du in der Datei `
 <!-- CONTACT -->
 ## Kontakt
 
-mein_homelab - [@mein_homelab](https://twitter.com/mein_homelab) - info@sakis.tech
+Sakis-Tech - [@mein_homelab](https://twitter.com/mein_homelab) - info@sakis.tech
 
-Project Link: [https://github.com/sakis-tech/Quick-Sys-Tasks](https://github.com/sakis-tech/Quick-Sys-Tasks)
+Projekt-Link: [https://github.com/sakis-tech/Quick-Linux-Toolkits](https://github.com/sakis-tech/Quick-Linux-Toolkits)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Support -->
+## Support
+
+<p><a href="https://ko-fi.com/sakistech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p><br><br>
+
+<!-- Static -->
+## Statistik
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakis-tech&show_icons=true&locale=en" alt="sakis-tech" /></p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sakis-tech/Quick-Sys-Tasks.svg?style=for-the-badge
-[contributors-url]: https://github.com/sakis-tech/Quick-Sys-Tasks/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sakis-tech/Quick-Sys-Tasks.svg?style=for-the-badge
-[forks-url]: https://github.com/sakis-tech/Quick-Sys-Tasks/network/members
-[stars-shield]: https://img.shields.io/github/stars/sakis-tech/Quick-Sys-Tasks.svg?style=for-the-badge
-[stars-url]: https://github.com/sakis-tech/Quick-Sys-Tasks/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sakis-tech/Quick-Sys-Tasks.svg?style=for-the-badge
-[issues-url]: https://github.com/sakis-tech/Quick-Sys-Tasks/issues
-[license-shield]: https://img.shields.io/github/license/sakis-tech/Quick-Sys-Tasks.svg?style=for-the-badge
-[license-url]: https://github.com/sakis-tech/Quick-Sys-Tasks/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sakis-tech/Quick-Linux-Toolkits.svg?style=for-the-badge
+[contributors-url]: https://github.com/sakis-tech/Quick-Linux-Toolkits/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sakis-tech/Quick-Linux-Toolkits.svg?style=for-the-badge
+[forks-url]: https://github.com/sakis-tech/Quick-Linux-Toolkits/network/members
+[stars-shield]: https://img.shields.io/github/stars/sakis-tech/Quick-Linux-Toolkits.svg?style=for-the-badge
+[stars-url]: https://github.com/sakis-tech/Quick-Linux-Toolkits/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sakis-tech/Quick-Linux-Toolkits.svg?style=for-the-badge
+[issues-url]: https://github.com/sakis-tech/Quick-Linux-Toolkits/issues
+[license-shield]: https://img.shields.io/github/license/sakis-tech/Quick-Linux-Toolkits.svg?style=for-the-badge
+[license-url]: https://github.com/sakis-tech/Quick-Linux-Toolkits/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -204,11 +215,5 @@ Project Link: [https://github.com/sakis-tech/Quick-Sys-Tasks](https://github.com
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sakistech"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sakistech" /></a></p><br><br>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakis-tech&show_icons=true&locale=en" alt="sakis-tech" /></p>
 
 
