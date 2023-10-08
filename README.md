@@ -157,10 +157,6 @@ Wenn Dir dieses Projekt gefällt und Du gerne dazu beitragen möchtest, Meine Ar
 
 Vielen Dank für Deine Unterstützung! Ich bin dankbar für jede Spende, die dazu beiträgt, dieses Projekt weiterzuentwickeln und zu verbessern.
 
-<br />
-<br />
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sakis-tech&show_icons=true&locale=en" alt="sakis-tech" /></p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
