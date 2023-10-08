@@ -48,13 +48,13 @@
 <details>
   <summary>Inhaltsverzeichnis</summary>
   <ol>
-    <li><a href="#ueber-das-projekt">Über das Projekt</a></li>
+    <li><a href="#über-das-projekt">Über das Projekt</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Verwendung</a></li>
-    <li><a href="#contributing">Mitwirken</a></li>
-    <li><a href="#license">Lizenz</a></li>
-    <li><a href="#contact">Kontakt</a></li>
-    <li><a href="#support">Unterstützen Sie dieses Projekt</a></li>
+    <li><a href="#verwendung">Verwendung</a></li>
+    <li><a href="#mitwirken">Mitwirken</a></li>
+    <li><a href="#lizenz">Lizenz</a></li>
+    <li><a href="#kontakt">Kontakt</a></li>
+    <li><a href="#unterstützen-sie-das-projekt">Unterstützen Sie dieses Projekt</a></li>
   </ol>
 </details>
 
