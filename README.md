@@ -90,36 +90,15 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
 
 <p align="right">(<a href="#readme-top">Zurück zum Anfang</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Verwendung
 <br />
-<div align="center">
-  <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits">
-    <img src="images/update.sh.png" alt="update.sh Terminal" width="734" height="536">
-  </a>
-</div>
-<br />
 
-Die folgende Tabelle gibt einen Überblick über die Skripte, die verwendeten Befehle und ihre Hauptfunktionen.
-| Auswahlmöglichkeit  | Verwendete Befehle        | Funktion                                 |
-|----------------------|---------------------------|------------------------------------------|
-| update               | `sudo apt update`         | Neueinlesen der Paketlisten              |
-| upgrade              | `sudo apt upgrade -y`     | Installierte Pakete aktualisieren        |
-| install PAKET(E)     | `sudo apt install PAKET(E)` | Installation von PAKET(E)               |
-| remove PAKET(E)      | `sudo apt remove PAKET(E)`  | Deinstallation von PAKET(E)            |
-| autoremove [PAKET(E)]| `sudo apt autoremove`      | Deinstallation ungenutzter Abhängigkeiten [inkl PAKET(E)] |
-| purge PAKET(E)       | `sudo apt purge PAKET(E)`   | Wie `remove`, zusätzlich werden alle globalen Konfigurationen von PAKET(E) entfernt |
-| dist-upgrade         | `sudo apt dist-upgrade -y` | Wie `upgrade`, können dabei auch Pakete installiert bzw. entfernt werden |
-| clean                | `sudo apt clean`           | Leeren des Paketcaches (Entfernen von zur Installation heruntergeladenen Paketen) |
-| autoclean            | `sudo apt autoclean`       | Wie `clean`, nur werden ausschließlich Pakete, die nicht mehr in den Quellen verfügbar sind, gelöscht |
-| check                | `sudo apt check`           | Überprüfung auf Abhängigkeitsfehler     |
-| markauto PAKET(E)    | `sudo apt-mark auto PAKET(E)` | PAKET(E) als "automatisch installiert" markieren |
-| unmarkauto PAKET(E)  | `sudo apt-mark manual PAKET(E)` | PAKET(E) als "manuell installiert" markieren |
-| changelog PAKET(E)   | `apt changelog PAKET(E)`   | Herunterladen und Anzeige des Changelogs von PAKET(E) |
-| download PAKET(E)    | `apt download PAKET(E)`    | PAKET(E) herunterladen                    |
-| Quit                     |                              | Das Skript beenden                             |
+Hier werden weitere Skripte aufgelistet, was zu Unübersichtlichkeit führen kann. Die Funktionen für jedes Skript findest du stattdessen im Wiki, wo jedes Skript ausführlich bezüglich seiner Funktionen und Befehle erklärt wird. Wenn dennoch Fragen offenbleiben, eröffne bitte ein Issue oder kontaktiere mich.
+
+| Skriptname         | Funktion                                      | Wiki-Link                                    |
+|--------------------|-----------------------------------------------|----------------------------------------------|
+| `update.sh`        | Verwaltet Linux-Pakete und Paketlisten       | [Link zur Wiki](https://github.com/sakis-tech/Quick-Linux-Toolkits/wiki/update.sh)  |
 
 
 
