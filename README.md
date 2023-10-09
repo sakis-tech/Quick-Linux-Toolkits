@@ -94,7 +94,9 @@ Erfahrene Benutzer hingegen haben die Möglichkeit, die Skripte an ihre individu
 ## Verwendung
 <br />
 
-Hier werden weitere Skripte aufgelistet, was zu Unübersichtlichkeit führen kann. Die Funktionen für jedes Skript findest du stattdessen im Wiki, wo jedes Skript ausführlich bezüglich seiner Funktionen und Befehle erklärt wird. Wenn dennoch Fragen offenbleiben, eröffne bitte ein Issue oder kontaktiere mich.
+Hier werden alle Skripte übersichtlich aufgelistet. <br>
+Die Funktionen für jedes Skript findest du im Wiki, wo jedes Skript ausführlich bezüglich seiner Funktionen und Befehle erklärt wird. <br>
+Wenn dennoch Fragen offenbleiben, eröffne bitte ein <a href="https://github.com/sakis-tech/Quick-Linux-Toolkits/issues">Issue</a>.
 
 | Skriptname         | Funktion                                      | Wiki-Link                                    |
 |--------------------|-----------------------------------------------|----------------------------------------------|
